@@ -25,3 +25,9 @@ button {
 button:hover {
   background-color: #005b99;
 }
+.brand-name {
+  font-family: 'DM Serif Display', serif;
+  font-size: 1.6em;
+  color: #e35d2c;
+  font-weight: bold;
+}

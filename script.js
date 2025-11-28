@@ -1,21 +1,25 @@
-// Function to load a random quote
 async function loadQuote() {
+  const quoteEl = document.getElementById("quote");
+  quoteEl.textContent = "Loading quote...";
+
   try {
+    // Fetch a random quote
     const response = await fetch("https://api.quotable.io/random");
-    if (!response.ok) throw new Error("Network response was not ok");
+    if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);
     const data = await response.json();
-    document.getElementById("quote").textContent = data.content;
-  } catch (error) {
-    console.error("Error fetching quote:", error);
-    document.getElementById("quote").textContent = "Failed to load quote.";
+    quoteEl.textContent = `"${data.content}" — ${data.author}`;
+  } catch (err) {
+    console.error("Error fetching quote:", err);
+    // Fallback quote if API fails
+    quoteEl.textContent = `"Fashion is the armor to survive the reality of everyday life." — Bill Cunningham`;
   }
 }
 
-// Call the function immediately on page load
 window.addEventListener("DOMContentLoaded", loadQuote);
 
-// Optional alert on button click
+// Optional alert button
 document.getElementById("alertButton").addEventListener("click", () => {
   alert("hello world 🎉");
 });
+
 

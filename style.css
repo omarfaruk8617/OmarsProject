@@ -61,3 +61,10 @@ button:hover {
   position: relative;
   z-index: 1;
 }
+#quote {
+  font-style: italic;
+  font-size: 1.2em;
+  text-align: center;
+  margin-top: 20px;
+  color: #555;
+}

@@ -29,7 +29,7 @@
   <img src="pp.jpeg" width="350" height="500" alt="Your style">
   <img src="qq.jpeg" width="350" height="500" alt="Your style">
 
- <button onclick="loadMarkdown('markdown.md'); makeBackgroundPink();">
+ <button onclick="loadMarkdown('markdown.md', ); makeBackgroundPink();">
     Open Page 1
   </button>
     <button onclick="loadMarkdown('example2.md', 'content'); makeBackgroundWhite();">
@@ -39,4 +39,15 @@
 
   <script src="script.js"></script>
 </body>
+
+<script>
+   }
+  displayImage();
+  async function loadMarkdown(filename, componentId) {
+    const response = await fetch(filename);
+    const text = await response.text();
+    document.getElementById(componentId).innerHTML = marked.parse(text);
+  }
+</script>
+
 </html>

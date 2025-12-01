@@ -4,9 +4,12 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>LORE.S</title>
-  
+
   <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Stylish&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
+
+  <!-- Markdown library -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 
 <body>
@@ -16,6 +19,7 @@
     <h2 class="brand-name">LORE.S</h2>
   </div>
 
+  <!-- QUOTE -->
   <p id="quote">Loading quote...</p>
 
   <p>
@@ -29,25 +33,58 @@
   <img src="pp.jpeg" width="350" height="500" alt="Your style">
   <img src="qq.jpeg" width="350" height="500" alt="Your style">
 
- <button onclick="loadMarkdown('markdown.md', ); makeBackgroundPink();">
+  <!-- BUTTONS -->
+  <button onclick="loadMarkdown('markdown.md'); makeBackgroundPink();">
     Open Page 1
   </button>
-    <button onclick="loadMarkdown('markdown2.md', 'content'); makeBackgroundWhite();">
+
+  <button onclick="loadMarkdown('markdown2.md'); makeBackgroundWhite();">
     Open Page 2
   </button>
 
+  <!-- Where markdown loads -->
+  <div id="content" style="margin-top: 30px;"></div>
 
-  <script src="script.js"></script>
+  <!-- FIXED SCRIPT -->
+  <script>
+    // Load a markdown file into #content
+    async function loadMarkdown(filename) {
+      try {
+        const response = await fetch(filename);
+        const text = await response.text();
+        document.getElementById("content").innerHTML = marked.parse(text);
+      } catch (error) {
+        document.getElementById("content").innerHTML = "Error loading page.";
+      }
+    }
+
+    // Background color changes
+    function makeBackgroundPink() {
+      document.body.style.background = "pink";
+    }
+
+    function makeBackgroundWhite() {
+      document.body.style.background = "white";
+    }
+
+    // Load quote on page load
+    async function loadQuote() {
+      const quoteBox = document.getElementById("quote");
+      try {
+        const response = await fetch("https://api.quotable.io/random");
+        const data = await response.json();
+        quoteBox.textContent = `"${data.content}" — ${data.author}`;
+      } catch {
+        quoteBox.textContent = "Style is the way to say who you are without speaking. — Rachel Zoe";
+      }
+    }
+
+    // Run automatically when page opens
+    window.onload = function () {
+      loadQuote();
+    };
+  </script>
+
 </body>
-
-<script>
-  }
-  displayImage();
-  async function loadMarkdown(markdown.md, componentId) {
-    const response = await fetch(filename);
-    const text = await response.text();
-    document.getElementById(componentId).innerHTML = marked.parse(text);
-  }
-</script>
-
 </html>
+

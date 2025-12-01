@@ -43,7 +43,7 @@
 <script>
    }
   displayImage();
-  async function loadMarkdown(filename, componentId) {
+  async function loadMarkdown(markdown.md, componentId) {
     const response = await fetch(filename);
     const text = await response.text();
     document.getElementById(componentId).innerHTML = marked.parse(text);

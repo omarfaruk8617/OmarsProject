@@ -24,11 +24,17 @@ Conclusion: Digital technologies have become inseparable from the future of Sust
 
 References: 
 1.Caple, C., 2010. Conservation Skills: Judgement, Method and Decision Making. Routledge.
+
 2.Ch’ng, E., Cai, S. & Leow, F.T., 2019. ‘Preserving Heritage through Blockchain Technology.’ Studies in Digital Heritage, 3(1), pp.1–15.
+
 3.Conolly, J. & Lake, M., 2006. Geographical Information Systems in Archaeology. Cambridge University Press.
+
 4.Fai, S. & Rafeiro, J., 2014. ‘Establishing an appropriate level of detail for a building information model for historic buildings.’ ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 2(5), pp.123–130.
+
 5.Liang, H., 2012. ‘Advances in multispectral and hyperspectral imaging for archaeology and art conservation.’ Applied Physics A, 106(2), pp.309–323.
+
 6.Qatar Museums, 2022. Qatar Digital Museum Initiative. [Online ] Available at: https://qm.org.qa/en/ [Accessed 9 Oct. 2025].
+
 7.Remondino, F. & Campana, S., 2014. 3D Recording and Modelling in Archaeology and Cultural Heritage: Theory and Best Practices. Archaeopress.
 
 Generative Artificial Intelligence (GAI) use declaration:

@@ -1,4 +1,4 @@
-Digital Technologies in Sustainable Heritage Management
+Digital Technologies in the Humanities 
 Omar Faruk
 Sustainable Heritage Management
 

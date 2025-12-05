@@ -10,16 +10,18 @@ A particularly transformative area is the rise of high-tech 3D visualisation in 
 The growing digital initiatives seen in places such as Qatar’s national heritage sector reflect a global trend: heritage organisations are increasingly using digitisation and 3D technologies to balance access and preservation. These innovative strategies demonstrate how cultural institutions can use technology to reach global audiences while maintaining high conservation standards (Parry 2010; Remondino & Campana 2014).
 In a visually driven world, traditional long-text displays are no longer sufficient to engage broad audiences. 3D visualisation, VR, AR, and digital storytelling have therefore become essential for heritage professionals seeking to maintain the relevance of cultural history in the digital age. Learning these skills is not merely optional; it is central to the future of archaeology, conservation, museums, and heritage management.
 Ultimately, digital technology bridges the past and the future of heritage. It preserves physical materials while creating innovative ways to experience, study, and share cultural histories. Sustainable Heritage Management uses these tools to democratise heritage, protect vulnerable collections, and ensure that cultural knowledge remains accessible and meaningful for generations to come.
+
 Reference
-1.	Ashworth, G.J. & Howard, P. (1999) European Heritage Planning and Management. Exeter: Intellect Books.
-2.	Conolly, J. & Lake, M. (2006) Geographical Information Systems in Archaeology. Cambridge: Cambridge University Press.
-3.	De la Torre, M. (2013) Conservation and Sustainability in Heritage Management. Los Angeles: Getty Conservation Institute.
-4.	Economou, M. & Pujol, L. (2017) ‘Educational applications of virtual reality in museums’, Curator, 60(3), pp. 317–334.
-5.	Fai, S., Graham, K. & Duckworth, T. (2020) ‘Digital twins for heritage site management’, Journal of Cultural Heritage Management, 12(4), pp. 421–438.
-6.	Labadi, S. & Logan, W. (2016) Urban Heritage, Development and Sustainability. London: Routledge.
-7.	Parry, R. (2010) Museum as Digital Space: Digital Futures for Cultural Institutions. London: Routledge.
-8.	Perry, S., Taylor, J. & Kane, S. (2017) ‘3D technologies and museum visualisation’, Museum Management and Curatorship, 32(5), pp. 440–455.
-9.	Remondino, F. & Campana, S. (2014) 3D Recording and Modelling in Archaeology and Cultural Heritage. Oxford: Archaeopress.
-10.	Ridge, M. (2014) Crowdsourcing Our Cultural Heritage. London: Routledge.
+
+1.Ashworth, G.J. & Howard, P. (1999) European Heritage Planning and Management. Exeter: Intellect Books.
+2.Conolly, J. & Lake, M. (2006) Geographical Information Systems in Archaeology. Cambridge: Cambridge University Press.
+3.De la Torre, M. (2013) Conservation and Sustainability in Heritage Management. Los Angeles: Getty Conservation Institute.
+4.Economou, M. & Pujol, L. (2017) ‘Educational applications of virtual reality in museums’, Curator, 60(3), pp. 317–334.
+5.Fai, S., Graham, K. & Duckworth, T. (2020) ‘Digital twins for heritage site management’, Journal of Cultural Heritage Management, 12(4), pp. 421–438.
+6.Labadi, S. & Logan, W. (2016) Urban Heritage, Development and Sustainability. London: Routledge.
+7.Parry, R. (2010) Museum as Digital Space: Digital Futures for Cultural Institutions. London: Routledge.
+8.Perry, S., Taylor, J. & Kane, S. (2017) ‘3D technologies and museum visualisation’, Museum Management and Curatorship, 32(5), pp. 440–455.
+9.Remondino, F. & Campana, S. (2014) 3D Recording and Modelling in Archaeology and Cultural Heritage. Oxford: Archaeopress.
+10.Ridge, M. (2014) Crowdsourcing Our Cultural Heritage. London: Routledge.
 Smith, L. (2006) Uses of Heritage. London: Routledge.
 

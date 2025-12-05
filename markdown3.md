@@ -1,5 +1,5 @@
 Digital Technologies in the Humanities 
-Omar Faruk
+Omar Faruk,
 Sustainable Heritage Management
 
 Introduction: Sustainable Heritage Management is a field of study where students come from different backgrounds, for instance, Archeology, Anthropology, Art History, Architecture, History, Museum Studies, Tourism Studies, Cultural Geography, and many others. The definition of heritage is important to introduce this programme. The literal and so-called definition of heritage is “anything that is inherited from the past and we pass on to the future.” In my interpretation, heritage can be anything we can relate to personally or collectively, and has a relation with time. In this programme, sustainability carries a huge importance and fundamental focus. It is one of the few study programmes globally with a specific focus on sustainability. This attention to sustainability underlines the central place of caring for the future within contemporary heritage studies and is currently one of the most important topics in the Museum and Heritage Studies world.

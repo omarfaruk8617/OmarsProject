@@ -35,3 +35,8 @@ Reference
 
 11.Smith, L. (2006) Uses of Heritage. London: Routledge.
 
+
+Generative Artificial Intelligence (GAI) use declaration:
+
+I used ChatGPT for summarizing some reading materials and creating some code for HTML, JavaScript, and  style.css. And the wordtune and Microsoft Word’s auto correction helpd me to write without grammatical mistakes. 
+

@@ -14,14 +14,24 @@ Ultimately, digital technology bridges the past and the future of heritage. It p
 Reference
 
 1.Ashworth, G.J. & Howard, P. (1999) European Heritage Planning and Management. Exeter: Intellect Books.
+
 2.Conolly, J. & Lake, M. (2006) Geographical Information Systems in Archaeology. Cambridge: Cambridge University Press.
+
 3.De la Torre, M. (2013) Conservation and Sustainability in Heritage Management. Los Angeles: Getty Conservation Institute.
+
 4.Economou, M. & Pujol, L. (2017) ‘Educational applications of virtual reality in museums’, Curator, 60(3), pp. 317–334.
+
 5.Fai, S., Graham, K. & Duckworth, T. (2020) ‘Digital twins for heritage site management’, Journal of Cultural Heritage Management, 12(4), pp. 421–438.
+
 6.Labadi, S. & Logan, W. (2016) Urban Heritage, Development and Sustainability. London: Routledge.
+
 7.Parry, R. (2010) Museum as Digital Space: Digital Futures for Cultural Institutions. London: Routledge.
+
 8.Perry, S., Taylor, J. & Kane, S. (2017) ‘3D technologies and museum visualisation’, Museum Management and Curatorship, 32(5), pp. 440–455.
+
 9.Remondino, F. & Campana, S. (2014) 3D Recording and Modelling in Archaeology and Cultural Heritage. Oxford: Archaeopress.
+
 10.Ridge, M. (2014) Crowdsourcing Our Cultural Heritage. London: Routledge.
-Smith, L. (2006) Uses of Heritage. London: Routledge.
+
+11.Smith, L. (2006) Uses of Heritage. London: Routledge.
 
